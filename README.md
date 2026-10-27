@@ -1,6 +1,6 @@
 ### Hi, I'm Albert Sagré Martínez 👋
 
-**Systems and controls engineer working on vehicle software validation and moving into autonomy: control, motion planning and robotics.** Based in Barcelona.
+**Systems engineer working on vehicle software validation and moving into autonomy: control, motion planning and robotics.** Based in Barcelona.
 
 I've spent the last few years making real vehicles behave as specified: validating powertrain software, calibrating engines and e-drives, and testing ADAS functions on test benches, lab cars and test tracks. I'm now building on that with the software that makes vehicles autonomous: state estimation, control and motion planning.
 
